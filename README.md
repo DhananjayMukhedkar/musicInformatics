@@ -8,3 +8,5 @@ The project is divided into 2 parts:
 #root_path : Change this variable to the root path of the dataset
 
 #filesuffix : (optional) Set this parameter to add suffix to feature file for file id 
+
+The feature_files contain the extracted features files.
